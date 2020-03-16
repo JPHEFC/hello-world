@@ -1,2 +1,3 @@
 # hello-world
-Learning how to use gothub
+Learning how to use github
+Changed typo from gothub to github. Hurrah!
